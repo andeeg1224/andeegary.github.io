@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/watchtower/Watchtower.png
+image: img/ratcounter/RatCounterCircuit.png
 title: "Rat Counter"
 date: 2020
 published: true
