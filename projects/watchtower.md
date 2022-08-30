@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/watchtower/Watchtower.png
-title: "Watchtower"
+title: "WatchTower"
 date: 2022
 published: true
 labels:
