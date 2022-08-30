@@ -9,7 +9,7 @@ labels:
   - Raspbery Pi
   - IBM Cloud
   - JavaScript
-summary: "Watchtower was a project done with a group of four where we took JSON data from the Hawaii Beach Safety API. We would send the data through the cloud to the Raspberry Pi where it was connected to a display that showed the nearshore conditions at a certain beach on Oahu."
+summary: "Watchtower takes data from the Beach Safety API and sends it from a cloud application to a Raspberry Pi where it will display the current beach conditions."
 ---
 
 <div class="text-center p-4">
