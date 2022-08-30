@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/watchtower/Watchtower.png
+image: img/droneProgrammingAndControl/drone.png
 title: "Drone Programming and Control"
 date: 2021
 published: true
