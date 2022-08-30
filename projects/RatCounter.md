@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ratcounter/RatCounterCircuit.png
+image: img/ratcounter/arduino.png
 title: "Rat Counter"
 date: 2020
 published: true
