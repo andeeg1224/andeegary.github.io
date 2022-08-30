@@ -53,7 +53,8 @@ def arm_and_takeoff(aTargetAltitude):
             break
         time.sleep(1)
 
-arm_and_takeoff(3)```
+arm_and_takeoff(3)
+```
 <div class="text-center p-4">
   <img width="60%" src="../img/droneProgrammingAndControl/Takeoff 40.png" class="img-thumbnail" >
 </div>
