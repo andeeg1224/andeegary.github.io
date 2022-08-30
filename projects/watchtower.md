@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/watchtower.png
 title: "Watchtower"
 date: 2022
 published: true
