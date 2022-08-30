@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "andeegary", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "andeegary", "url": "http://github.com/andeegary" },
       { "network": "linkedin", "username": "andeegary", "url": "http://linkedin.com/in/andee-gary" }
     ]
   },
