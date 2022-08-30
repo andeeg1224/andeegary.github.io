@@ -14,10 +14,9 @@ summary: "Throughout this project we did various simulation drone flights before
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/droneProgrammingAndControl/drone.png" class="img-thumbnail" >
+  <img width="60%" src="../img/droneProgrammingAndControl/drone.png" class="img-thumbnail" >
 </div>
-The goal of this project was to program a drone with Python to be able to do a mission autonomously. To get used to the code and practice with the commands we would first run simulations in a virtual machine with VirtualBox. We used an Ubuntu Linux OS to run our test code and flight simulations. We did various flight simulations such as a simple takeoff and land, a goto mission, and various others. Shown below is a simple t
-
+The goal of this project was to program a drone with Python to be able to do a mission autonomously. To get used to the code and practice with the commands we would first run simulations in a virtual machine with VirtualBox. We used an Ubuntu Linux OS to run our test code and flight simulations. We did various flight simulations such as a simple takeoff and land, a goto mission, and various others. Shown below is a script used for one of our simulations.
 ```python
 from dronekit import connect
 vehicle = connect('0.0.0.0:14550', wait_ready=True)
@@ -54,3 +53,6 @@ def arm_and_takeoff(aTargetAltitude):
         time.sleep(1)
 
 arm_and_takeoff(3)```
+<div class="text-center p-4">
+  <img width="60%" src="../img/droneProgrammingAndControl/Takeoff 40.png" class="img-thumbnail" >
+</div>
