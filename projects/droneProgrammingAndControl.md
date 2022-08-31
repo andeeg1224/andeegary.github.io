@@ -14,7 +14,7 @@ summary: "Throughout this project we did various simulation drone flights before
 ---
 
 <div class="text-center p-4">
-  <img width="60%" src="../img/droneProgrammingAndControl/drone.png" class="img-thumbnail" >
+  <img width="40%" src="../img/droneProgrammingAndControl/drone.png" class="img-thumbnail" >
 </div>
 The goal of this project was to program a drone with Python to be able to do a mission autonomously. To get used to the code and practice with the commands we would first run simulations in a virtual machine with VirtualBox. We used an Ubuntu Linux OS to run our test code and flight simulations. We did various flight simulations such as a simple takeoff and land, a goto mission, and various others. Our simulations would have a minimap to show our flight progress and a console of the drone status, shown below is a script used for one of our simulations and the output of a simple takeoff simulation.
 
