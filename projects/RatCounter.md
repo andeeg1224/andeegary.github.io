@@ -23,4 +23,4 @@ The next stage of this project was creating an app that could connect to the Ard
 <div class="text-center p-4">
   <img width="25%" src="../img/ratcounter/RatApp.png" class="img-thumbnail" >
 </div>
-Throughout this project my contribution was creating the app and writing the code for the sensors to be able to detect movement and keep a counter. I was able to succesfully have the sensor track movement and the Arduino store the counter and send it to the app and allowed the app to communicate back to the Arduino with the reset. From this project I learned basic circuit skills, how to use an Arduino and how to create simple apps.
+Throughout this project my contribution was creating the app and writing the code for the sensors to be able to detect movement and keep a counter. I was able to succesfully have the sensor track movement and the Arduino store the counter and send it to the app and allowed the app to communicate back to the Arduino with the reset. From this project I learned basic circuit skills, how to use an Arduino and how to create simple apps. A brief demo can be watched [here](https://www.youtube.com/watch?v=o3JxgTAkWKg&t=2s).
