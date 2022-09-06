@@ -6,7 +6,7 @@ title: "WatchTower"
 date: 2022
 published: true
 labels:
-  - Raspbery Pi
+  - Raspberry Pi
   - IBM Cloud
   - JavaScript
 summary: "WatchTower takes data from the Beach Safety API and sends it from a cloud application to a Raspberry Pi where it will display the current beach conditions."
