@@ -12,6 +12,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/CodingStandards/book.jpg">
+
 ## Standards of Coding
 Have you ever gone through a program where it is extremely difficult to read? There is no spaces between words and operators, the indentation is non-existent, the code has many unnecessary and unused variables? The simple fix to this problem is to follow a coding standard. Coding standards are a great way to help someone learn a programming language, this is because it makes the code much more understandable and is much easier to read. Coding standards also help with assigning variables and assigning the correct data type.
 
