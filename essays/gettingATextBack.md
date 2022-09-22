@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Why Won't I Get a Text Back?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-8
+date: 2022-09-08
 published: true
 labels:
   - StackOverflow
