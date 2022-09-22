@@ -6,9 +6,9 @@ title: "The Ingenuity Behind Autocorrect"
 date: 2022-09-21
 published: true
 labels:
-  -ESLint
+  - ESLint
   - Intellij IDEA
-  JavaScript
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/CodingStandards/book.jpg">
