@@ -4,7 +4,7 @@ type: essay
 title: "A Year In Review"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-13
-published: false
+published: true
 labels:
 - Design Patterns
 - Agile Project Management
