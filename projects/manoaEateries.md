@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoaEateries/Logo.png
+image: img/manoaEateries/Logo2.png
 title: "Manoa Eateries"
 date: 2022
 published: true
