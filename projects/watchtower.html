@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="WatchTower | Andee Gary | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/andeegary.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Andee Gary | Professional Portfolio">
+    <meta property="og:url" content="https://andeegary.github.io/projects/watchtower.html">
+    <meta property="og:title" content="WatchTower | Andee Gary | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/andeegary.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>WatchTower | Andee Gary | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Andee Gary</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">WatchTower</h1>
+ <div class="text-center p-4">
+  <img width="60%" src="../img/watchtower/IBMCloudFlow.png" class="img-thumbnail" />
+</div>
+
+<p>WatchTower was a project done using tools such as IBM Cloud, Raspberry Pi, and JavaScript. The main goal of the project was to use an API and retrieve the data into our cloud application and be able to send data from the cloud application to the Raspberry Pi device. To do this project we used the Hawaii Beach Safety API and pulled the beach conditions into our IBM Cloud. The next step was being able to process the specific beaches we wanted to track and send to the Raspberry Pi. The IBM Cloud would parse the data from a JSON file and send the data of a specific beach to each of the connected Raspberry Pi devices. The cloud also created an HTTP endpoint that presented the conditions of the beaches that were sent to the Raspberry Pi devices.</p>
+<div class="text-center p-4">
+  <img width="60%" src="../img/watchtower/HTTP Endpoint.png" class="img-thumbnail" />
+ </div>
+<p>The next step of this project was the Raspberry Pi device to process the data and display the condition of the beach. For this we created a homemade wheel that displayed the four possible conditions and an arrow that would be attached to a motor. The Raspberry Pi would be connected to a motor that would turn a variable number of degrees based on the beach conditions. The homemade arrow was attached to the motor and pointed to the corresponding beach conditions.</p>
+<div class="text-center p-4">
+  <img width="60%" src="../img/watchtower/RaspberryPiFlow.png" class="img-thumbnail" />
+ </div>
+<p>This project was a group of four where we split ourselves into two groups where two worked on the Raspberry Pi side of the project, and my group which worked with the beach safety API and the cloud application. I worked with parsing the JSON data and having functions to pull specific beaches and send the data to the Raspberry Pi devices and create the HTTP endpoint. In this experience I learned how to bring data from a cloud server and be able to pass it to a small computer (Raspberry Pi) where it would take the data and perform different actions based on the data received. A short video <a href="https://www.youtube.com/watch?v=a2mU8cClEGM">here</a> has a brief description of our project.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

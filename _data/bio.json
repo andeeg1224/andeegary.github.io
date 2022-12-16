@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Andee Gary",
+    "label": "Student",
+    "picture": "https://github.com/andeegary.png",
+    "email": "andeeg@hawaii.edu",
+    "phone": "808-364-0194",
+    "website": "https://andeegary.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "andeegary", "url": "http://github.com/andeegary" },
+      { "network": "linkedin", "username": "andeegary", "url": "http://linkedin.com/in/andee-gary" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "Machine Learning" },
+    { "name": "Object-Oriented Programming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "Javascript", "SQL", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Ubuntu", "Git/GitHub", "Arduino", "Linux", "Raspberry Pi" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "Present",
+      "courses": ["Data Structures & Algorithms", "Cyber-Physical Systems", "Digital Systems & Computer Design", "Linear Algebra & Mach Learning", "Object Oriented Programming", "Basic Circuit Analysis I-II", "Microelectronic Circuits I"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Department of Transportation",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "Present",
+      "summary": "Student Intern for the Highways division",
+      "highlights": [
+        "Worked with various datasets and SOQL to create stories on the data",
+        "Used Python scripts to automate the data entering process"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Oahu Army Natural Resource Program",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        "Learned GIS",
+        "Flew a drone and took images to create a 2D/3D map using GIS"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Treasurer, IEEE-HKN Eta Kappa Nu, 2022-Present",
+        "Member, IEEE Student Branch, 2022-Present"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen who complete a high school with a minimum overall GPA of 3.8 at a Hawai'i public school."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2019-Fall 2020 and Fall 2021-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Achieving a minimum 3.5 GPA for the semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
