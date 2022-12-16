@@ -4,7 +4,7 @@ type: project
 image: img/manoaEateries/Logo.png
 title: "Manoa Eateries"
 date: 2022
-published: true
+published: false
 labels:
 - React
 - BootStrap
