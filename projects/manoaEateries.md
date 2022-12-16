@@ -9,7 +9,7 @@ labels:
 - React
 - BootStrap
 - JavaScript
-  summary: "Manoa Eateries is a project that shows users what food places are open on campus. There is also a suggestion page that will show the user three top picks each time they check."
+summary: "Manoa Eateries is a project that shows users what food places are open on campus. There is also a suggestion page that will show the user three top picks each time they check."
 ---
 
 <div class="text-center p-4">
